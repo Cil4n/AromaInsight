@@ -1,3 +1,3 @@
 # Aroma Insight
 
-Aroma Insight 是一个以精油卡牌为核心的 Flutter 体验：使用者抽取三张香气卡，阅读对应洞悉，并透过 Gemini 生成一段「今日建议」。
+Aroma Insight 是以精油卡牌為核心的 Flutter 體驗：使用者抽取三張香氣卡，閱讀對應洞悉，並透過 Gemini 產生一段「今日建議」。
